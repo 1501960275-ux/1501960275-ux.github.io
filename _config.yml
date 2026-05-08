@@ -26,10 +26,10 @@ description: >- # 用于 SEO
 url: "https://1501960275-ux.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: 1501960275-ux
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: # disabled
 
 author:
   name: zhanglei
@@ -43,8 +43,7 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/1501960275-ux
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
