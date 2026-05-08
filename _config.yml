@@ -199,6 +199,11 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: page
 
 sass:
   style: compressed

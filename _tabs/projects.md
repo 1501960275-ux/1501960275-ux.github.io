@@ -1,10 +1,8 @@
 ---
-title: 项目展示
+title: 我的项目
 icon: fas fa-project-diagram
 order: 4
 ---
-
-# 我的项目
 
 这里展示了我的一些项目作品。
 

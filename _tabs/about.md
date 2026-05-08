@@ -1,9 +1,8 @@
 ---
+title: 关于我
 icon: fas fa-info-circle
 order: 5
 ---
-
-# 关于我
 
 你好，我是 **zhanglei**！
 
