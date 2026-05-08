@@ -5,7 +5,7 @@ categories: [博客, 生活]
 tags: [jekyll, github-pages, chirpy]
 ---
 
-# Hello World
+## Hello World
 
 这是我的第一篇博客文章！
 
