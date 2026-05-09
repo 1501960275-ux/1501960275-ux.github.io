@@ -3,6 +3,7 @@ title: "OpenAi学习-frontmatter"
 date: 2026-05-08 10:00:00 +0800
 categories: [OpenAi]
 tags: [frontmatter, openai]
+render_with_liquid: false
 ---
 
 
